@@ -1,0 +1,1 @@
+DROP TABLE admins_id_relode;

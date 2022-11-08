@@ -1,0 +1,10 @@
+INSERT INTO new_adm_id (Admin_id, Reg_Data, Adm_Name) VALUES (1, '2022.11.08', 'Danil');
+INSERT INTO new_adm_id (Admin_id, Reg_Data, Adm_Name) VALUES (2, '2022.11.08', 'Nick');
+INSERT INTO new_adm_id (Admin_id, Reg_Data, Adm_Name) VALUES (3, '2022.11.08', 'Mick');
+INSERT INTO new_adm_id (Admin_id, Reg_Data, Adm_Name) VALUES (4, '2022.11.08', 'Alina');
+INSERT INTO new_adm_id (Admin_id, Reg_Data, Adm_Name) VALUES (5, '2022.11.08', 'Dasha');
+INSERT INTO new_adm_id (Admin_id, Reg_Data, Adm_Name) VALUES (6, '2022.11.08', 'Kirill');
+INSERT INTO new_adm_id (Admin_id, Reg_Data, Adm_Name) VALUES (7, '2022.11.08', 'Sasha');
+INSERT INTO new_adm_id (Admin_id, Reg_Data, Adm_Name) VALUES (8, '2022.11.08', 'Evgeniy');
+INSERT INTO new_adm_id (Admin_id, Reg_Data, Adm_Name) VALUES (9, '2022.11.08', 'Dima');
+INSERT INTO new_adm_id (Admin_id, Reg_Data, Adm_Name) VALUES (10, '2022.11.08', 'Roma');

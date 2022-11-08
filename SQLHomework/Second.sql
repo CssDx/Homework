@@ -1,0 +1,1 @@
+CREATE TABLE Admins_Id_Relode SELECT * FROM Adm_Id;
