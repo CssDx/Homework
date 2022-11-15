@@ -1,0 +1,5 @@
+ALTER TABLE Adm_Id
+	ADD Adm_Name VARCHAR(120);
+	
+ALTER TABLE Adm_Id
+	RENAME TO New_Adm_Id;
