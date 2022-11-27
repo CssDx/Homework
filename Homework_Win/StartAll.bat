@@ -1,4 +1,4 @@
-start creator.bat
-start info.bat
-start dif.bat
+start 1.bat 
+start 2.bat 
+start 3.bat
 pause
